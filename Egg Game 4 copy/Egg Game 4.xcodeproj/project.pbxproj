@@ -1,0 +1,565 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		E0AFC3342E15AAE600A4A7FB /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = E0AFC31E2E15AADF00A4A7FB /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = E0AFC3252E15AADF00A4A7FB;
+			remoteInfo = "Egg Game 4";
+		};
+		E0AFC33E2E15AAE600A4A7FB /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = E0AFC31E2E15AADF00A4A7FB /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = E0AFC3252E15AADF00A4A7FB;
+			remoteInfo = "Egg Game 4";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		E0AFC3262E15AAE000A4A7FB /* Egg Game 4.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Egg Game 4.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		E0AFC3332E15AAE600A4A7FB /* Egg Game 4Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Egg Game 4Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		E0AFC33D2E15AAE600A4A7FB /* Egg Game 4UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Egg Game 4UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		E0AFC3282E15AAE000A4A7FB /* Egg Game 4 */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Egg Game 4";
+			sourceTree = "<group>";
+		};
+		E0AFC3362E15AAE600A4A7FB /* Egg Game 4Tests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Egg Game 4Tests";
+			sourceTree = "<group>";
+		};
+		E0AFC3402E15AAE600A4A7FB /* Egg Game 4UITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Egg Game 4UITests";
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		E0AFC3232E15AADF00A4A7FB /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E0AFC3302E15AAE600A4A7FB /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E0AFC33A2E15AAE600A4A7FB /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		E0AFC31D2E15AADF00A4A7FB = {
+			isa = PBXGroup;
+			children = (
+				E0AFC3282E15AAE000A4A7FB /* Egg Game 4 */,
+				E0AFC3362E15AAE600A4A7FB /* Egg Game 4Tests */,
+				E0AFC3402E15AAE600A4A7FB /* Egg Game 4UITests */,
+				E0AFC3272E15AAE000A4A7FB /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		E0AFC3272E15AAE000A4A7FB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				E0AFC3262E15AAE000A4A7FB /* Egg Game 4.app */,
+				E0AFC3332E15AAE600A4A7FB /* Egg Game 4Tests.xctest */,
+				E0AFC33D2E15AAE600A4A7FB /* Egg Game 4UITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		E0AFC3252E15AADF00A4A7FB /* Egg Game 4 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = E0AFC3472E15AAE600A4A7FB /* Build configuration list for PBXNativeTarget "Egg Game 4" */;
+			buildPhases = (
+				E0AFC3222E15AADF00A4A7FB /* Sources */,
+				E0AFC3232E15AADF00A4A7FB /* Frameworks */,
+				E0AFC3242E15AADF00A4A7FB /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				E0AFC3282E15AAE000A4A7FB /* Egg Game 4 */,
+			);
+			name = "Egg Game 4";
+			packageProductDependencies = (
+			);
+			productName = "Egg Game 4";
+			productReference = E0AFC3262E15AAE000A4A7FB /* Egg Game 4.app */;
+			productType = "com.apple.product-type.application";
+		};
+		E0AFC3322E15AAE600A4A7FB /* Egg Game 4Tests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = E0AFC34A2E15AAE600A4A7FB /* Build configuration list for PBXNativeTarget "Egg Game 4Tests" */;
+			buildPhases = (
+				E0AFC32F2E15AAE600A4A7FB /* Sources */,
+				E0AFC3302E15AAE600A4A7FB /* Frameworks */,
+				E0AFC3312E15AAE600A4A7FB /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				E0AFC3352E15AAE600A4A7FB /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				E0AFC3362E15AAE600A4A7FB /* Egg Game 4Tests */,
+			);
+			name = "Egg Game 4Tests";
+			packageProductDependencies = (
+			);
+			productName = "Egg Game 4Tests";
+			productReference = E0AFC3332E15AAE600A4A7FB /* Egg Game 4Tests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		E0AFC33C2E15AAE600A4A7FB /* Egg Game 4UITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = E0AFC34D2E15AAE600A4A7FB /* Build configuration list for PBXNativeTarget "Egg Game 4UITests" */;
+			buildPhases = (
+				E0AFC3392E15AAE600A4A7FB /* Sources */,
+				E0AFC33A2E15AAE600A4A7FB /* Frameworks */,
+				E0AFC33B2E15AAE600A4A7FB /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				E0AFC33F2E15AAE600A4A7FB /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				E0AFC3402E15AAE600A4A7FB /* Egg Game 4UITests */,
+			);
+			name = "Egg Game 4UITests";
+			packageProductDependencies = (
+			);
+			productName = "Egg Game 4UITests";
+			productReference = E0AFC33D2E15AAE600A4A7FB /* Egg Game 4UITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		E0AFC31E2E15AADF00A4A7FB /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1640;
+				LastUpgradeCheck = 1640;
+				TargetAttributes = {
+					E0AFC3252E15AADF00A4A7FB = {
+						CreatedOnToolsVersion = 16.4;
+					};
+					E0AFC3322E15AAE600A4A7FB = {
+						CreatedOnToolsVersion = 16.4;
+						TestTargetID = E0AFC3252E15AADF00A4A7FB;
+					};
+					E0AFC33C2E15AAE600A4A7FB = {
+						CreatedOnToolsVersion = 16.4;
+						TestTargetID = E0AFC3252E15AADF00A4A7FB;
+					};
+				};
+			};
+			buildConfigurationList = E0AFC3212E15AADF00A4A7FB /* Build configuration list for PBXProject "Egg Game 4" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = E0AFC31D2E15AADF00A4A7FB;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = E0AFC3272E15AAE000A4A7FB /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				E0AFC3252E15AADF00A4A7FB /* Egg Game 4 */,
+				E0AFC3322E15AAE600A4A7FB /* Egg Game 4Tests */,
+				E0AFC33C2E15AAE600A4A7FB /* Egg Game 4UITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		E0AFC3242E15AADF00A4A7FB /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E0AFC3312E15AAE600A4A7FB /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E0AFC33B2E15AAE600A4A7FB /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		E0AFC3222E15AADF00A4A7FB /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E0AFC32F2E15AAE600A4A7FB /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E0AFC3392E15AAE600A4A7FB /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		E0AFC3352E15AAE600A4A7FB /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = E0AFC3252E15AADF00A4A7FB /* Egg Game 4 */;
+			targetProxy = E0AFC3342E15AAE600A4A7FB /* PBXContainerItemProxy */;
+		};
+		E0AFC33F2E15AAE600A4A7FB /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = E0AFC3252E15AADF00A4A7FB /* Egg Game 4 */;
+			targetProxy = E0AFC33E2E15AAE600A4A7FB /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		E0AFC3452E15AAE600A4A7FB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEVELOPMENT_TEAM = TWHE8V8GUK;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		E0AFC3462E15AAE600A4A7FB /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = TWHE8V8GUK;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		E0AFC3482E15AAE600A4A7FB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = TWHE8V8GUK;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.games";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.elliotwilliams.Egg-Game-4";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		E0AFC3492E15AAE600A4A7FB /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = TWHE8V8GUK;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.games";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.elliotwilliams.Egg-Game-4";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		E0AFC34B2E15AAE600A4A7FB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = TWHE8V8GUK;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.elliotwilliams.Egg-Game-4Tests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Egg Game 4.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Egg Game 4";
+			};
+			name = Debug;
+		};
+		E0AFC34C2E15AAE600A4A7FB /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = TWHE8V8GUK;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.elliotwilliams.Egg-Game-4Tests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Egg Game 4.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Egg Game 4";
+			};
+			name = Release;
+		};
+		E0AFC34E2E15AAE600A4A7FB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = TWHE8V8GUK;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.elliotwilliams.Egg-Game-4UITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Egg Game 4";
+			};
+			name = Debug;
+		};
+		E0AFC34F2E15AAE600A4A7FB /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = TWHE8V8GUK;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.elliotwilliams.Egg-Game-4UITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Egg Game 4";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		E0AFC3212E15AADF00A4A7FB /* Build configuration list for PBXProject "Egg Game 4" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E0AFC3452E15AAE600A4A7FB /* Debug */,
+				E0AFC3462E15AAE600A4A7FB /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		E0AFC3472E15AAE600A4A7FB /* Build configuration list for PBXNativeTarget "Egg Game 4" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E0AFC3482E15AAE600A4A7FB /* Debug */,
+				E0AFC3492E15AAE600A4A7FB /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		E0AFC34A2E15AAE600A4A7FB /* Build configuration list for PBXNativeTarget "Egg Game 4Tests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E0AFC34B2E15AAE600A4A7FB /* Debug */,
+				E0AFC34C2E15AAE600A4A7FB /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		E0AFC34D2E15AAE600A4A7FB /* Build configuration list for PBXNativeTarget "Egg Game 4UITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E0AFC34E2E15AAE600A4A7FB /* Debug */,
+				E0AFC34F2E15AAE600A4A7FB /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = E0AFC31E2E15AADF00A4A7FB /* Project object */;
+}
